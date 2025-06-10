@@ -1,0 +1,5 @@
+selenium
+pytest
+opencv-python
+pytesseract
+flask
